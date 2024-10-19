@@ -2,7 +2,7 @@
   "name": "Income With Impact",
   "short_name": "IWI Inc",
   "description": "Helping people make money by leaving a big impact.",
-  "start_url": "/?source=pwa",
+  "start_url": "./",  // Use a relative path instead of query parameters
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#6200EE",
