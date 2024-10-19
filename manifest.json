@@ -1,8 +1,8 @@
 {
   "name": "Income With Impact",
-  "short_name": "IWI Inc.",
+  "short_name": "Income with Impact",
   "description": "Helping people make money by leaving a big impact.",
-  "start_url": "./",  
+  "start_url": "/communities/groups/income-with-impact/home?customCode=true",  
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#6200EE",
